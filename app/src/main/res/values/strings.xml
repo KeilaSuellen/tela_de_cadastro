@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tela de Cadastro</string>
+    <string name="insira_o_usu_rio">User Name</string>
+    <string name="insira_sua_senha">Password</string>
+    <string name="insira_seu_email">E-mail</string>
+    <string name="insira_seu_telefone">Phone</string>
+</resources>
